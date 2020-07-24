@@ -1,6 +1,6 @@
-var cacheName = "hello-pwa";
+var cacheName = "tetra-1-cache";
 var filesToCache = [
-  "/",
+  "/tetra",
   "index.html",
   "assets/style.css",
   "assets/main.js",
